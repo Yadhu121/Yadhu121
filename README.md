@@ -4,11 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi! I’m someone who thinks “What if?” is a perfectly good reason to try anything. I live in a world of code, hardware, and occasionally, chaos. My hobbies include making my PC hate me with Linux customizations and starting projects that require a 10-step troubleshooting guide to explain. 
 
 # 💻 What I Do 
-Linux Wizardry: I can turn any system into a work of art—or a cautionary tale. 
-Code Enthusiast: Writing scripts that work flawlessly… after 47 debugging sessions. 
-Project Hoarder: If it involves cameras, AI, or too many wires, I’m in. 
+### Linux Wizardry: 
+I can turn any system into a work of art—or a cautionary tale. 
+### Code Enthusiast: 
+Writing scripts that work flawlessly… after 47 debugging sessions. 
+### Project Hoarder: 
+If it involves cameras, AI, or too many wires, I’m in. 
 
-* ✉️  You can contact me at [thermalpaste14@gmail.com](mailto:thermalpaste14@gmail.com)
+
+
+✉️ You can contact me at [thermalpaste14@gmail.com](mailto:thermalpaste14@gmail.com)
 
 
 
