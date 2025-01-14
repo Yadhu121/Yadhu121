@@ -64,7 +64,3 @@
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/Yadhu121/Yadhu121/output/snake.svg" alt="Snake animation" />
-
-###
