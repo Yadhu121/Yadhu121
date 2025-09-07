@@ -13,7 +13,7 @@ If it involves cameras, AI, or too many wires, I’m in.
 
 
 
-✉️ You can contact me at [thermalpaste14@gmail.com](mailto:thermalpaste14@gmail.com)
+✉️ You can contact me at [thermalpaste14@gmail.com](mailto:yadhukrishnanr@proton.me)
 
 
 
